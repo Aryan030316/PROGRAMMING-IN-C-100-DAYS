@@ -8,7 +8,7 @@ Repository containing daily solutions for the **100 Days of Code Challenge** org
 - **Start Date:** August 10, 2026
 - **Mid-Sem Break Pause:** September 7–10, 2026 (Days 29–47 shifted +4 days to match portal)
 
-## Daily Progress Tracker (Days 1 to 47 Completed)
+## Daily Progress Tracker (Days 1 to 96 Completed)
 
 | Day | Date | Questions | Section |
 | :--- | :--- | :--- | :--- |
@@ -59,3 +59,52 @@ Repository containing daily solutions for the **100 Days of Code Challenge** org
 | Day 45 | 2026-09-27 | Q89, Q90 | Strings |
 | Day 46 | 2026-09-28 | Q91, Q92 | Strings |
 | Day 47 | 2026-09-29 | Q93, Q94 | Strings |
+| Day 48 | 2026-09-30 | Q95, Q96 | Strings |
+| Day 49 | 2026-10-01 | Q97, Q98 | Strings |
+| Day 50 | 2026-10-02 | Q99, Q100 | Strings |
+| Day 51 | 2026-10-03 | Q101 | Logic Enhancers |
+| Day 52 | 2026-10-04 | Q102 | Logic Enhancers |
+| Day 53 | 2026-10-05 | Q103 | Logic Enhancers |
+| Day 54 | 2026-10-06 | Q104 | Logic Enhancers |
+| Day 55 | 2026-10-07 | Q105 | Logic Enhancers |
+| Day 56 | 2026-10-08 | Q106 | Logic Enhancers |
+| Day 57 | 2026-10-09 | Q107 | Logic Enhancers |
+| Day 58 | 2026-10-10 | Q108 | Logic Enhancers |
+| Day 59 | 2026-10-11 | Q109 | Logic Enhancers |
+| Day 60 | 2026-10-12 | Q110 | Logic Enhancers |
+| Day 61 | 2026-10-13 | Q111 | Logic Enhancers |
+| Day 62 | 2026-10-14 | Q112 | Logic Enhancers |
+| Day 63 | 2026-10-15 | Q113 | Logic Enhancers |
+| Day 64 | 2026-10-16 | Q114 | Logic Enhancers |
+| Day 65 | 2026-10-17 | Q115 | Logic Enhancers |
+| Day 66 | 2026-10-18 | Q116 | Logic Enhancers |
+| Day 67 | 2026-10-19 | Q117 | Logic Enhancers |
+| Day 68 | 2026-10-20 | Q118 | Logic Enhancers |
+| Day 69 | 2026-10-21 | Q119 | Logic Enhancers |
+| Day 70 | 2026-10-22 | Q120 | File Handling |
+| Day 71 | 2026-10-23 | Q121 | File Handling |
+| Day 72 | 2026-10-24 | Q122 | File Handling |
+| Day 73 | 2026-10-25 | Q123 | File Handling |
+| Day 74 | 2026-10-26 | Q124 | File Handling |
+| Day 75 | 2026-10-27 | Q125 | File Handling |
+| Day 76 | 2026-10-28 | Q126 | File Handling |
+| Day 77 | 2026-10-29 | Q127 | File Handling |
+| Day 78 | 2026-10-30 | Q128 | File Handling |
+| Day 79 | 2026-10-31 | Q129 | File Handling |
+| Day 80 | 2026-11-01 | Q130 | File Handling |
+| Day 81 | 2026-11-02 | Q131 | Enum |
+| Day 82 | 2026-11-03 | Q132 | Enum |
+| Day 83 | 2026-11-04 | Q133 | Enum |
+| Day 84 | 2026-11-05 | Q134 | Enum |
+| Day 85 | 2026-11-06 | Q135 | Enum |
+| Day 86 | 2026-11-07 | Q136 | Enum |
+| Day 87 | 2026-11-08 | Q137 | Enum |
+| Day 88 | 2026-11-09 | Q138 | Enum |
+| Day 89 | 2026-11-10 | Q139 | Enum |
+| Day 90 | 2026-11-11 | Q140 | Enum |
+| Day 91 | 2026-11-12 | Q141 | Structures |
+| Day 92 | 2026-11-13 | Q142 | Structures |
+| Day 93 | 2026-11-14 | Q143 | Structures |
+| Day 94 | 2026-11-15 | Q144 | Structures |
+| Day 95 | 2026-11-16 | Q145 | Structures |
+| Day 96 | 2026-11-17 | Q146 | Structures |
